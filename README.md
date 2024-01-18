@@ -25,6 +25,23 @@ Random moduli var izmantot, lai veiktu nejaušas darbības, piemēram, ģenerēt
 - Norādi vingrinājumu skaitu katrai ķermeņa daļai.
 2. **Skaties rezultātu:**
 - Programma izvadīs vingrinājuma nosaukumu, aprakstu kā vingrinājumu izpildīt un cik reizes vingrinājums jāpilda.
+### Programmas izpildes piemērs:
+
+Ievadi ķermeņa daļas, kuras šodien vēlies stiprināt (atdalot ar komatu, bez atstarpes): *Kājas,Rokas*
+
+Ievadi vēlamo vingrinājumu skaitu katrai ķermeņa daļai (atdalot ar komatu, bez atstarpes): *2,1*
+
+**Kājas** - Izklupieni
+- Izpilde: Sākums stāvus, ieelpojiet un speriet lielu soli uz priekšu, saglabājot taisnu muguru. Nolaidieties lejup, līdz ceļgals saliekts vismaz 90 grādu leņķī. Atgriezieties sākuma stāvoklī. To pašu jādara ar otru kāju.
+- Reizes: 3x12
+
+**Kājas** - Wall sit
+- Izpilde: Mugura pret sienu, ar kājām plecu platumā un aptuveni 2 pēdu attālumā no sienas. Ar muguru jāslīd lejup pa sienu līdz augšstilbi ir paralēli zemei, jeb veido 90 grādus pret sienu. Vēlams pozīciju noturēt vismaz 60 sekundes.
+- Reizes: 2x60s
+
+**Rokas** - Bench press ar hantelēm
+- Izpilde: Horizontāli guļot uz sola, spied hanteles uz augšu. Lejā rokām jāveido 90 grādu leņķis ar zemi.
+- Reizes: 3x12
 
 ### Papildu informācija:
 - Dati par vingrinājumiem tiek nolasīti no Excel faila ('Vingrinajumi.xlsx').
